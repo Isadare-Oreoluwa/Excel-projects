@@ -1,4 +1,4 @@
-### Sales Performance Analysis (January 2014 - June 2015)
+### In-Depth Sales Performance Analysis: Key Insights and Strategic Recommendations for Revenue Growth
 
 This repository contains a detailed analysis of the sales performance of a fictitious company from January 2014 to June 2015. The primary objectives of this analysis were to understand revenue trends, evaluate the contribution of different lines of business across various regions, and identify potential areas for improvement.
 
