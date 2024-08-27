@@ -15,6 +15,6 @@ This repository contains a detailed analysis of the sales performance of a ficti
 - Leverage high-value trades to maximize revenue.
 - Implement segment-specific marketing strategies for optimized sales.
 
-For a more detailed understanding of the analysis, please refer to the full report included in this repository.
+ **[Report](path/to/your/excel/file.zip)**: For a more detailed understanding of the analysis.
 
-The excel file is also in the Zip folder.
+ **[Excel File](path/to/your/excel/file.zip)**: Contains the raw data used for analysis.
