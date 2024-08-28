@@ -17,4 +17,4 @@ This repository contains a detailed analysis of the sales performance of a ficti
 
  **[Report](https://github.com/Isadare-Oreoluwa/Excel-projects/raw/main/Projects/First%20Excel%20Project/Report.docx)**: For a more detailed understanding of the analysis.
 
- **[Excel File](path/to/your/excel/file.zip)**: Contains the raw data used for analysis.
+ **[Excel File](https://github.com/Isadare-Oreoluwa/Excel-projects/raw/main/Projects/In-Depth%20Sales%20Performance%20Analysis%20Key%20Insights%20and%20Strategic%20Recommendations%20for%20Revenue%20Growth/Data.xlsx)**: Contains the raw data used for analysis.
