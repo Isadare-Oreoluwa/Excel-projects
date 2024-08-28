@@ -1,19 +1,13 @@
 # Excel Analysis Projects
 
-## Overview
-
-This repository contains various Excel analysis projects, showcasing the use of Excel for data analysis, visualization, and strategic insights. Each project explores different datasets and analytical techniques to provide actionable insights and recommendations.
-
 ## Table of Contents
 1. [Introduction](#introduction)
 2. [Projects](#projects)
    - [In-Depth Sales Performance Analysis: Key Insights and Strategic Recommendations for Revenue Growth](#in-depth-sales-performance-analysis-key-insights-and-strategic-recommendations-for-revenue-growth)
 3. [Getting Started](#getting-started)
-4. [Contributing](#contributing)
-5. [Contact](#contact)
+4. [Contact](#contact)
 
 ## Introduction
-
 Welcome to my collection of Excel analysis projects! This repository features a range of analytical reports and visualizations created using Microsoft Excel. Each project is designed to demonstrate various analytical techniques and provide insights into different types of data.
 
 ## Projects
@@ -35,14 +29,10 @@ Welcome to my collection of Excel analysis projects! This repository features a 
 
 ## Getting Started
 
-1. **Viewing the Projects:**
-   - Browse the repository to explore different Excel files and analyses.
-   - Click on individual files to view them directly on GitHub or download them for offline use.
-
-## Contributing
-
-This repository is intended for showcasing my work and is not open for contributions. If you have any questions or feedback, please reach out via the contact information below.
+- **Viewing the Projects:**
+  - Browse the repository to explore different Excel files and analyses.
+  - Click on individual files to view them directly on GitHub or download them for offline use.
 
 ## Contact
 
-For any questions or inquiries, please reach out to me on [my mail](mailto:isadare.ore@gmail.com).
+For any questions or inquiries, please reach out to me via [email](mailto:isadare.ore@gmail.com).
