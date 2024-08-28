@@ -36,14 +36,8 @@ Welcome to my collection of Excel analysis projects! This repository features a 
 ## Getting Started
 
 1. **Viewing the Projects:**
-   - You can view and download the Excel files directly from this repository to explore the analysis.
-
-2. **Cloning (For Local Viewing):**
-   - If you want to clone this repository for local viewing:
-     ```sh
-     git clone https://github.com/Isadare-Oreoluwa/Excel=projects.git
-     ```
-   - Note: Cloning creates a copy of the repository on your local machine, but does not allow editing of the original files in this repository.
+   - Browse the repository to explore different Excel files and analyses.
+   - Click on individual files to view them directly on GitHub or download them for offline use.
 
 ## Contributing
 
