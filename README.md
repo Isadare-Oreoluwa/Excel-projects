@@ -4,6 +4,7 @@
 1. [Introduction](#introduction)
 2. [Featured Projects](#featured-projects)
    - [In-Depth Sales Performance Analysis: Key Insights and Strategic Recommendations for Revenue Growth](#in-depth-sales-performance-analysis-key-insights-and-strategic-recommendations-for-revenue-growth)
+   - [McDonald’s Corporation Financial Performance Analysis (2002–2022)](#mcdonalds-corporation-financial-performance-analysis-20022022)
 3. [All Projects](#all-projects)
 4. [Getting Started](#getting-started)
 5. [Contact](#contact)
@@ -26,6 +27,20 @@ Welcome to my collection of Excel analysis projects! This repository features a 
   - Investigate revenue fluctuations and implement segment-specific marketing strategies.
 - *Report:* [Detailed Report](https://github.com/Isadare-Oreoluwa/Excel-projects/blob/Excel-main/Projects/In-Depth%20Sales%20Performance%20Analysis%20Key%20Insights%20and%20Strategic%20Recommendations%20for%20Revenue%20Growth/Report.docx)
 - *Excel File:* [Download the Excel file](https://github.com/Isadare-Oreoluwa/Excel-projects/blob/Excel-main/Projects/In-Depth%20Sales%20Performance%20Analysis%20Key%20Insights%20and%20Strategic%20Recommendations%20for%20Revenue%20Growth/Data.zip)
+
+### McDonald’s Corporation Financial Performance Analysis (2002–2022)
+- *Description:* A long-term financial performance review of McDonald’s Corporation over a 21-year period. The project focuses on profitability, returns, dividends, and financial structure using Excel.
+- *Key Highlights:*
+  - *Revenue & Earnings:* Growth in the early years with significant earnings jump post-2015.
+  - *Margins & Returns:* Operating margin improved from 18% to 43%; ROE and ROA rose mainly due to better margins and leverage.
+  - *Payout & Dividends:* Payout ratio increased steadily; dividends rose faster than earnings.
+  - *DuPont Analysis:* ROE growth driven by margin expansion, not efficiency.
+- *Conclusions & Recommendations:*
+  - Maintain margin improvements and leverage cautiously.
+  - Focus on dividend consistency and earnings quality.
+  - Use DuPont insights to manage capital structure and profitability.
+- *Report:* [View Report](https://github.com/Isadare-Oreoluwa/Excel-projects/blob/Excel-main/Projects/McDonalds%20Analysis/McDonald%20Report.pdf)
+- *Excel File:* [Download Dashboard & Data](https://github.com/Isadare-Oreoluwa/Excel-projects/blob/Excel-main/Projects/McDonalds%20Analysis/McDonalds%20Analysis.rar)
 
 ## All Projects
 
