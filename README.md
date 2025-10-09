@@ -25,7 +25,7 @@ Welcome to my collection of Excel analysis projects! This repository features a 
   - Focus on high-performing regions and products.
   - Enhance sales volume through targeted strategies.
   - Investigate revenue fluctuations and implement segment-specific marketing strategies.
-- *Report:* [Detailed Report](https://github.com/Isadare-Oreoluwa/Excel-projects/blob/Excel-main/Projects/In-Depth%20Sales%20Performance%20Analysis%20Key%20Insights%20and%20Strategic%20Recommendations%20for%20Revenue%20Growth/Report.docx)
+- *Report:* [Detailed Report](https://github.com/Isadare-Oreoluwa/Excel-projects/blob/Excel-main/Projects/In-Depth%20Sales%20Performance%20Analysis%20Key%20Insights%20and%20Strategic%20Recommendations%20for%20Revenue%20Growth/Report.pdf)
 - *Excel File:* [Download the Excel file](https://github.com/Isadare-Oreoluwa/Excel-projects/blob/Excel-main/Projects/In-Depth%20Sales%20Performance%20Analysis%20Key%20Insights%20and%20Strategic%20Recommendations%20for%20Revenue%20Growth/Data.zip)
 
 ### McDonald’s Corporation Financial Performance Analysis (2002–2022)
